@@ -53,4 +53,5 @@ Open [http://localhost:5173](http://localhost:5173/) to view the project.
 ## Screenshot
 
 
+<img width="1380" alt="image" src="https://github.com/user-attachments/assets/14c8c18b-114e-45df-a9a5-efeb580fd2d1" />
 
