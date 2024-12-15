@@ -1,8 +1,56 @@
-# React + Vite
+# Rick and Morty Characters Viewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based app to display and search for characters from the **Rick and Morty API** with a clean, responsive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- 🔍 Search characters by name
+- 🌟 Display character details: Status, Species, Location, and Origin
+- 🎨 Responsive UI using Tailwind CSS
+
+---
+
+## Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **Rick and Morty API**
+- **Vite**
+
+---
+
+## Setup Instructions
+
+1. Clone the repo:
+   ```
+   git clone https://github.com/chhavi6V/Rick-and-Morty-Assignment.git
+   cd rick-and-morty-viewer
+   ```
+
+2.  Install dependencies:
+    
+    ```
+    npm install
+    ```
+    
+
+🖥️ Development
+---------------
+
+  Start the development server:
+  ```
+  npm run dev
+  ```
+
+Open [http://localhost:5173](http://localhost:5173/) to view the project.
+
+## API Reference
+
+- Endpoint: https://rickandmortyapi.com/api
+
+## Screenshot
+
+
+
